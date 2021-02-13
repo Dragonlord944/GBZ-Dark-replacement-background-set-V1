@@ -7,4 +7,4 @@ V3 brought Extra systems support added to GBZ dark theme along with Menu logos. 
 It is worth noting, this set (and the regular non dark set) was created to use with the gbz themes, but they work equally well in any number of others. There is no reason you can't mix things up a little.
 Version 4 now complete and uploaded. Contains all the files of set 3 plus a few more machines added to the menu along with new menu Logos.
 Additional files in this Git (not required) are a single background image to show the style, plus one image showing a large number of the systems covered using actual background images without dates shown in one large compilation image.
-Main files are only available on 'odd months' Jan/Mar/May etc
+
